@@ -1,0 +1,25 @@
+body
+{
+    font-family: "Oldtown", cursive, monospace;
+    background-image: url(https://www.disabled-world.com/pics/1/hypnotic-image.jpg);
+}
+h1, h3
+{
+    background-color:slateblue;
+}
+p
+{
+    color: yellow;
+    background-color: royalblue;
+}
+ul
+{
+    background-color: blue;
+    font-weight: bolder;
+}
+a
+{
+    border-style: outset;
+    border-width: 12px;
+    padding: 10%;
+}
